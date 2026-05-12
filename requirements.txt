@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+google-genai
+streamlit
+ipykernel
+langchain-google-genai
+pypdf
