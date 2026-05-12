@@ -6,3 +6,4 @@ streamlit
 ipykernel
 langchain-google-genai
 pypdf
+faiss-cpu
